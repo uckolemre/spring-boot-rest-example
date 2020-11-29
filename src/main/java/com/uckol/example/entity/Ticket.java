@@ -19,7 +19,7 @@ public class Ticket {
     private Long id;
 
     @Column
-    private String code;
+    private String ticketNumber;
 
     @Column
     private Long flightId;
